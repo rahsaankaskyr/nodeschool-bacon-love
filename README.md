@@ -1,4 +1,6 @@
-# Install and Start
+#Functional Reactive Programming
+
+## Install and Start
 
 You need Node.js at least version 4.
 
